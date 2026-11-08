@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.chrome-preview/
+.chrome-brochure/
+.npm-cache/
+.*-preview.png
+*.local
